@@ -1,0 +1,35 @@
+{
+  "name": "Glubschi gewinnt",
+  "short_name": "Glubschi",
+  "description": "Vier gewinnt mit Glubschaugen für zwei: Link per WhatsApp schicken und übers Handy gegeneinander spielen.",
+  "lang": "de",
+  "dir": "ltr",
+  "id": "glubschi-gewinnt/",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFD3E6",
+  "theme_color": "#2F55F5",
+  "categories": ["games"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
